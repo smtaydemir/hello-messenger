@@ -6,9 +6,6 @@
  <a href="https://developers.facebook.com/docs/messenger-platform/quickstart">Getting Started</a>
 </p>
 
-<p align="center">
-<a href="https://www.facebook.com/hellomessengerbot">Demo</a>
-</p>
 
 ___
 
