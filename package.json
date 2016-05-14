@@ -1,0 +1,25 @@
+{
+  "name": "hello-messenger",
+  "version": "1.0.0",
+  "description": "Messenger bot basic exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/smtaydemir/hello-messenger.git"
+  },
+  "author": "Samet Aydemir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smtaydemir/hello-messenger/issues"
+  },
+  "homepage": "https://github.com/smtaydemir/hello-messenger#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
