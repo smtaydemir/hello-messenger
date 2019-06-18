@@ -1,4 +1,4 @@
-<p align="center"><img width="100px" src="https://static.xx.fbcdn.net/rsrc.php/v2/y8/r/R_1BAhxMP5I.png"></p>
+<p align="center"><img width="100px" src="https://static.xx.fbcdn.net/rsrc.php/v3/yh/r/p6_sqYxQ9ch.png"></p>
 
 <h1 align="center">hello-messenger</h1>
 <p align="center">Messenger bot very basic exercise</p>
